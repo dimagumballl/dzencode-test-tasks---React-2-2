@@ -1,0 +1,117 @@
+.OrdersItem{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-size: x-small;
+    cursor: pointer;
+}
+.OrdersItemTitle{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: grey;
+}
+
+.OrdersItemButtonMenu{
+    border: 0.5px solid gray;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.OrdersItemButtonMenu:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.OrdersItemButtonMenu>img{
+    width: 60%;
+    height: 60%;
+}
+.OrdersItemCounter{
+    margin-left: 10px;
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.OrdersItemCounterNumber{
+
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: medium;
+}
+.OrdersItemCounterTitle{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: small;
+}
+.OrdersItemDate{
+    width: 110px;
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}
+.OrdersItemPrice{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.OrdersItemPriceDolar{
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+    font-size: xx-small;
+}
+.OrdersItemPriceUAH{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+}
+.OrdersItemDelete{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.OrdersItemDelete>img{
+    width: 90%;
+    height: 90%;
+}
+.CloseButton{
+    display: flex;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(237, 190, 127);
+}
+.CloseButton:hover{
+    background-color: bisque;
+}

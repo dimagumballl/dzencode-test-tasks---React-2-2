@@ -1,0 +1,129 @@
+.ProductsItem{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-size: x-small;
+}
+.ItemCheckConteiner{
+    height: 100%;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ItemCheck{
+    height: 5px;
+    width: 5px;
+    border-radius: 5px;
+    background-color: green;
+}
+.ItemImage{
+    height: 100%;
+    width: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ItemImage>img{
+    height: 95%;
+    width: 95%;
+}
+.ItemTitle{
+    height: 100%;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.ItemTitleName{
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.ItemTitleSN{
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+    font-size: xx-small;
+}
+.ItemCheckLongConteiner{
+    height: 100%;
+    width: 100px;
+    color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ItemGuarantee{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.ItemGuaranteeText{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.ItemPryce{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ItemPryceDolar{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+    font-size: xx-small;
+}
+.ItemPryceUAN{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+}
+.ItemOrder{
+    width: 150px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.ItemDate{
+
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}

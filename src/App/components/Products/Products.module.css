@@ -1,0 +1,45 @@
+.Products{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+}
+.ProductsTopBar{
+    display: flex;
+    margin-top: 40px;
+    width: 80%;
+}
+.Counter{
+    width: 100%;
+}
+.FilterType{
+    font-size: xx-small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.FilterType>select{
+    width: 70%;
+    margin-left: 5px;
+}
+.FilterSpecification{
+    font-size: xx-small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.FilterSpecification>select{
+    width: 70%;
+    margin-left: 5px;
+}
+.ProductsListItem{
+    width: 80%;
+    margin-top: 40px;
+    display: flex;
+    justify-content:  flex-start;
+    align-items: center;
+
+    flex-direction: column;
+}

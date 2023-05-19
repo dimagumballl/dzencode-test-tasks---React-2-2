@@ -1,0 +1,70 @@
+.OrderProductListItem{
+    width: 100%;
+    display: flex;
+    height: 40px;
+    border-top: 0.5px solid rgba(128, 128, 128, 0.495);
+}
+.ItemCheckConteiner{
+    height: 100%;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ItemCheck{
+    height: 5px;
+    width: 5px;
+    border-radius: 5px;
+    background-color: green;
+}
+.ItemImage{
+    height: 100%;
+    width: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ItemImage>img{
+    height: 95%;
+    width: 95%;
+}
+.ItemTitle{
+    height: 100%;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.ItemTitleName{
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: small;
+}
+.ItemTitleSN{
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: grey;
+    font-size: xx-small;
+}
+.ItemCheckLongConteiner{
+    cursor: pointer;
+    height: 100%;
+    width: 100px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: xx-small;
+}

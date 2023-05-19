@@ -1,0 +1,32 @@
+.TopMenu{
+    margin: auto;
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+}
+.TopMenu_50{
+    width: 50%;
+    display: flex;
+}
+.Logo{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+.SearchBar{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+.TopMenu_05{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}

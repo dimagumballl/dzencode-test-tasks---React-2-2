@@ -1,0 +1,46 @@
+.Orders{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+
+}
+.OrdersTopBar{
+    display: flex;
+    margin-top: 40px;
+    width: 80%;
+    height: 40px;
+
+}
+.OrdersTopBarAddButton{
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.OrdersTopBarAddButton>img{
+    width: 100%;
+    height: 100%;
+}
+.OrdersTopBarCounter{
+    height: 100%;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: 600;    
+}
+.OrdersListItem{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.OrdersWorckSpace{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
