@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dzencode-test-tasks---React-2-2/static/css/main.91967bfe.css",
+    "main.js": "/dzencode-test-tasks---React-2-2/static/js/main.c381765b.js",
+    "static/js/787.772d3b4d.chunk.js": "/dzencode-test-tasks---React-2-2/static/js/787.772d3b4d.chunk.js",
+    "static/media/Portal2_ReflectionCube.png": "/dzencode-test-tasks---React-2-2/static/media/Portal2_ReflectionCube.88436af33f759dde3937.png",
+    "static/media/150px-Portal2_StorageCube.png": "/dzencode-test-tasks---React-2-2/static/media/150px-Portal2_StorageCube.1ac734c983c590fb1535.png",
+    "static/media/turret.png": "/dzencode-test-tasks---React-2-2/static/media/turret.20f0f1d90bf3d2ffcd25.png",
+    "static/media/Portal2_Turret_Defective.png": "/dzencode-test-tasks---React-2-2/static/media/Portal2_Turret_Defective.a1b23d23cfb48b79cf6a.png",
+    "static/media/avatar.png": "/dzencode-test-tasks---React-2-2/static/media/avatar.2e703f233aa832f32c00.png",
+    "static/media/CompanionCube.png": "/dzencode-test-tasks---React-2-2/static/media/CompanionCube.68bd49e9ccc90a8286c3.png",
+    "static/media/logo.png": "/dzencode-test-tasks---React-2-2/static/media/logo.42d8dd9b9d107ced9818.png",
+    "static/media/seting.png": "/dzencode-test-tasks---React-2-2/static/media/seting.9c4d99b97cc2591b2efb.png",
+    "static/media/add.png": "/dzencode-test-tasks---React-2-2/static/media/add.94c8a526c03879287062.png",
+    "static/media/bin.png": "/dzencode-test-tasks---React-2-2/static/media/bin.c4f0af28c10a19fbeee1.png",
+    "index.html": "/dzencode-test-tasks---React-2-2/index.html",
+    "main.91967bfe.css.map": "/dzencode-test-tasks---React-2-2/static/css/main.91967bfe.css.map",
+    "main.c381765b.js.map": "/dzencode-test-tasks---React-2-2/static/js/main.c381765b.js.map",
+    "787.772d3b4d.chunk.js.map": "/dzencode-test-tasks---React-2-2/static/js/787.772d3b4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91967bfe.css",
+    "static/js/main.c381765b.js"
+  ]
+}
